@@ -6,5 +6,4 @@ numpy
 statsmodels
 scipy
 openpyxl
-io
 datetime
