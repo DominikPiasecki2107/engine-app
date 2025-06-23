@@ -3,7 +3,7 @@ pandas
 matplotlib
 seaborn
 numpy
-statsmodels==0.13.5
-scipy==1.10.0
+statsmodels
+scipy
 openpyxl
 datetime
