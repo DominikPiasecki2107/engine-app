@@ -432,7 +432,7 @@ with st.sidebar.expander("O programie"):
     **Aplikacja do kompleksowej analizy danych silników (Wersja Web)**
 
     Wersja: 1.3 (Web) - Dodano Przykładową analizę
-    Autor: [Dominik Piasecki] / Konwersja i modyfikacja: AI Gemini
+    Autor: [Dominik Piasecki]
 
     Funkcjonalności:
     - Wczytywanie danych z dwóch plików Excel.
@@ -646,7 +646,6 @@ if user_manual_tab_index != -1:
         - **Wersja:** 1.3 (Web)
         - **Główne biblioteki:** Streamlit, Pandas, Matplotlib, Seaborn, Scipy, Statsmodels
         - **Kontakt / Autor oryginalny:** Dominik Piasecki (wg sekcji "O programie")
-        - **Modyfikacje (wersja web + instrukcja + przykład):** AI Gemini
         """)
 
 # --- NOWA ZAKŁADKA: Przykładowa analiza ---
